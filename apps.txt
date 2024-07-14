@@ -1,0 +1,6 @@
+discord
+figma
+iterm2
+android-platform-tools
+android-file-transfer
+
