@@ -3,8 +3,9 @@
 
 You have to Start the setup linearly | Added the Video and Doc for the Nerds
 Setup : 
-	THIS VIDEO! While going through there are multiple segments: 		- Terminal Setup :
-			- Video 1 :  OHMYZSH! To setup your terminal in style | 	Recommended
+	THIS VIDEO! While going through there are multiple segments: 		
+ 			- Terminal Setup :
+			- Video 1 :  OHMYZSH! To setup your terminal in style | Recommended
 			- Doc: Nerdy
 		- VS Code: 
 			- Setup: 
